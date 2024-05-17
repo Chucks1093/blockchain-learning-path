@@ -110,3 +110,74 @@ Here's a table comparing Blockchain vs. Banks using the points provided:
 | Security | Depends on bank's servers and user's practices | More secure as network grows, user controls security |
 | Approved Transactions | Banks can deny/freeze transactions and accounts | No restrictions, users transact freely |
 | Account Seizures | Governments can seize accounts due to KYC laws | Hard to seize anonymous Bitcoin |
+
+## Decentralized Alternative Currency
+
+Blockchain technology forms the foundation for cryptocurrencies like Bitcoin. This provides an alternative to traditional fiat currencies controlled by central authorities like the Federal Reserve.
+
+In the central authority system with the U.S. dollar, users' data and money are controlled by banks and the government. If a bank is hacked or fails, users' private information and money is at risk. When banks failed in 2008, they were bailed out using taxpayer money.
+
+Blockchain and cryptocurrencies solve these issues by operating in a decentralized manner across a network of computers, with no central controlling authority. This reduces risk and processing fees.
+For people in countries with unstable currencies or financial systems, cryptocurrencies provide a more stable currency and infrastructure. They can access applications and networks to do business domestically and globally.
+
+Using cryptocurrency wallets allows saving and spending, especially profound for the unbanked who lack state identification to access traditional financial services in unstable regions or war-torn areas without robust ID systems.
+
+## Simple Medical Records on Blockchain
+
+Doctors can use blockchain to safely store their patients' medical records. When a medical record is made and signed, it can be saved on the blockchain. The blockchain proves the record cannot be changed. The medical records would be locked with a private code so only certain people can see them. This keeps the records private.
+
+Patients will know their medical records are secure on the blockchain and have not been changed. They can also choose who can see their private medical records by controlling the code. So blockchain allows safe storage of medical records that cannot be altered, while also keeping the records private and giving patients control over who views them.
+
+Here's an explanation of using blockchain for property records in simple terms:
+
+## Simple Property Ownership Records on Blockchain
+
+Have you been to a government office to record who owns a property? It is hard work and not efficient. A physical deed paper has to be taken to an office worker. They type the details into a central database by hand. If there is a dispute over who owns the property, the records have to be checked against this database.This takes a lot of time and money. There can also be mistakes because humans type the records. Mistakes make tracking property ownership harder.
+
+Blockchain can remove the need to scan papers and look for physical files. If property ownership is recorded on the blockchain, owners can trust the records are accurate and saved permanently.
+
+In countries with war or no government offices to record properties, proving who owns what is nearly impossible. If people in those areas use blockchain, clear timelines of property ownership can be made that everyone can see.
+
+Here's an explanation of smart contracts using simple language:
+
+## Simple Automatic Agreements with Smart Contracts
+
+A smart contract is a computer code that can be built into the blockchain. It helps carry out an agreement between people automatically. They work based on conditions that users agree to. When those conditions are met, the terms of the agreement happen automatically.
+
+For example, let's say a renter wants to lease an apartment using a smart contract. The landlord agrees to give the door code to the renter after receiving the security deposit. The smart contract will automatically send the door code to the renter once the deposit is paid. It can also be set to change the code if rent is not paid or other conditions are met.
+
+So smart contracts make agreements happen automatically on the blockchain based on the conditions people agree to, without needing a middle person.
+
+Here's an explanation of using blockchain for supply chains in simple terms:
+
+## Tracking Food and Goods on the Blockchain
+
+Like in the IBM Food Trust example, suppliers can use blockchain to record where materials come from that they buy. This allows companies to prove that their products and labels like "Organic", "Local", and "Fair Trade" are real.
+
+The food industry is increasingly using blockchain to track the path food takes from farms to consumers and ensure it is safe.
+
+Suppliers put information about where food or goods originate on the blockchain ledger. Companies can then verify the journey and authenticity of those items by checking the blockchain records. This way, blockchain provides a transparent and permanent record of where products come from and their path through the supply chain before reaching stores and customers. Companies and consumers can have confidence in trusting product claims.
+
+So blockchain brings more transparency and trust to supply chains by tracking the true origins and journey of foods and goods.
+
+Here's an explanation of using blockchain for voting in simple terms:
+
+## Secure and Transparent Voting with Blockchain
+
+Blockchain could be used for a modern voting system. Using blockchain for voting can help prevent election fraud and increase voter participation, as tested in the November 2018 elections in West Virginia.
+
+With blockchain voting, it would be extremely difficult to tamper with or change any votes cast. The blockchain records would make the whole voting process transparent. Fewer people would be needed to conduct an election, and officials could get results almost instantly. This would remove the need for recounts or worries about fraud impacting the election results. The blockchain provides a permanent, unchangeable record of all votes.
+
+So blockchain allows secure, transparent and efficiently counted votes that are resistant to tampering or fraud, while requiring fewer resources to conduct an election. This could boost trust and participation in the voting process.
+
+## Pros and Cons of Blockchain
+Here are the pros and cons of blockchain presented in a tabular form:
+
+| Pros | Cons |
+|-|-|
+| Improved accuracy by removing human involvement in verification | Significant technology cost associated with some blockchains |
+| Cost reductions by eliminating third-party verification | Low transactions per second |
+| Decentralization makes it harder to tamper with | History of use in illicit activities, such as on the dark web |
+| Transactions are secure, private, and efficient | Regulation varies by jurisdiction and remains uncertain |
+| Transparent technology | Data storage limitations |
+| Provides a banking alternative and a way to secure personal information for citizens of countries with unstable or underdeveloped governments | |
