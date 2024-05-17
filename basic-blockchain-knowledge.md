@@ -171,6 +171,7 @@ With blockchain voting, it would be extremely difficult to tamper with or change
 So blockchain allows secure, transparent and efficiently counted votes that are resistant to tampering or fraud, while requiring fewer resources to conduct an election. This could boost trust and participation in the voting process.
 
 ## Pros and Cons of Blockchain
+
 Here are the pros and cons of blockchain presented in a tabular form:
 
 | Pros | Cons |
@@ -181,3 +182,52 @@ Here are the pros and cons of blockchain presented in a tabular form:
 | Transactions are secure, private, and efficient | Regulation varies by jurisdiction and remains uncertain |
 | Transparent technology | Data storage limitations |
 | Provides a banking alternative and a way to secure personal information for citizens of countries with unstable or underdeveloped governments | |
+
+
+Here are the drawbacks of blockchains explained in simple terms, not in a tabular form:
+
+## Downsides of Blockchain Technology
+
+### **High Technology Costs**
+
+ While blockchain can save money on transaction fees, the technology itself is very expensive. The Bitcoin network, which uses a system called "proof-of-work" to validate transactions, consumes huge amounts of computer power. In fact, the energy used by all the devices on the Bitcoin network is more than the entire country of Pakistan uses in a year! However, some solutions are being developed to address these high energy costs. For example, bitcoin-mining farms are being set up to use renewable energy sources like solar power, excess natural gas from fracking sites, or wind farm energy.
+  
+  So while the blockchain technology behind Bitcoin provides benefits, the massive energy consumption required is a major drawback that is starting to be addressed through alternative energy sources powering the mining operations.
+
+  Here's an explanation of the speed and data inefficiency drawbacks of blockchains using simple terms:
+
+### **Blockchain Can Be Slow and Limited**
+
+Bitcoin is a good example of how blockchains can be inefficient. Bitcoin's system for validating transactions takes around 10 minutes to add a new block of transactions to the blockchain. At this rate, the Bitcoin network can only handle about 3 transactions per second.
+
+Other cryptocurrencies like Ethereum perform better than Bitcoin, but blockchains still limit how many transactions they can process. For comparison, the traditional Visa payment system can handle 65,000 transactions per second!
+
+Solutions to increase blockchain transaction speeds have been in development for years. Some newer blockchains can already process over 30,000 transactions per second. Ethereum is also upgrading to potentially allow 100,000 transactions per second by splitting up its database. Another issue is that each block on a blockchain can only hold a limited amount of data. The debate around increasing this "block size" is an ongoing challenge for scaling blockchains to handle more data.
+
+So while very secure, the relatively slow transaction speeds and limited data capacity of current blockchains are drawbacks that developers are still trying to overcome through technological improvements.
+
+Here's an explanation of the illegal activity drawback of blockchains in simple terms:
+
+### **Blockchain Anonymity Enables Some Illegal Uses**
+
+While the privacy and anonymity that blockchains provide protect users' data, it also allows some illegal trading and activities to occur on blockchain networks.
+
+The most well-known example is the Silk Road online marketplace on the dark web that operated from 2011 to 2013. It allowed people to buy and sell illegal drugs and launder money using Bitcoin and other cryptocurrencies anonymously before the FBI shut it down.
+
+The dark web and cryptocurrencies make it harder to track illegal purchases and sales compared to traditional financial regulations. Banks have to verify customer identities and check against lists of criminals or terrorists when accounts are opened.
+
+However, only a very small portion (0.24%) of all cryptocurrency transactions in 2022 involved illegal activity according to research firm Chainalysis.
+
+This anonymity feature can be seen as both positive, providing access to finance, and negative by enabling some criminal uses. Many argue the benefits of giving the unbanked access to financial services outweigh the relatively low levels of illegal cryptocurrency activity compared to untraceable cash transactions.
+
+So while blockchains enable privacy, their anonymity also creates some opportunities for illegal uses that authorities try to monitor and prevent where possible.
+
+Here's an explanation of the regulation concerns around blockchains and cryptocurrencies in simple terms:
+
+### **Government Regulation a Potential Worry**
+
+Many people involved with cryptocurrencies have concerns about government regulation. While it is becoming very difficult to completely shut down a decentralized network like Bitcoin as it grows larger, governments could theoretically make it illegal to own cryptocurrencies or participate in their networks.
+
+However, this regulatory concern has reduced over time as major companies like PayPal have started allowing customers to use cryptocurrencies on their platforms. This mainstream adoption makes a cryptocurrency ban less likely.
+
+So while there were initial worries that governments may try to restrict or prohibit blockchains and cryptocurrencies, the widespread growth and increasing acceptance by major businesses has eased some of those regulatory concerns. But regulatory uncertainty around blockchains and cryptocurrencies still remains in many jurisdictions*.
